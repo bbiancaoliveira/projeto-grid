@@ -1,8 +1,8 @@
 # Projeto grid
 
-####Desenvolvimento de uma página web utilizando grid.
+Desenvolvimento de uma página web utilizando grid.
 
-###Link da página
+Link da página
 https://bbiancaoliveira.github.io/projeto-grid/
 
 
